@@ -1,0 +1,61 @@
+<mxfile host="65bd71144e">
+    <diagram id="Y2p2yQocRVOxpP1_aiCF" name="Page-1">
+        <mxGraphModel dx="954" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;div style=&quot;color: rgb(200, 211, 245); background-color: rgb(29, 31, 49); font-family: &amp;quot;source code pro&amp;quot;, &amp;quot;monospace&amp;quot;, monospace, &amp;quot;droid sans fallback&amp;quot;, &amp;quot;droid sans mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #7a88cf&quot;&gt;#&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="210" width="730" height="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;div style=&quot;color: rgb(200 , 211 , 245) ; background-color: rgb(29 , 31 , 49) ; font-family: &amp;#34;source code pro&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; , &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="70" width="730" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;div style=&quot;color: rgb(200 , 211 , 245) ; background-color: rgb(29 , 31 , 49) ; font-family: &amp;#34;source code pro&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; , &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="230" width="350" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div style=&quot;color: rgb(200 , 211 , 245) ; background-color: rgb(29 , 31 , 49) ; font-family: &amp;#34;source code pro&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; , &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="230" width="320" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div style=&quot;color: rgb(200, 211, 245); background-color: rgb(29, 31, 49); font-family: &amp;quot;source code pro&amp;quot;, &amp;quot;monospace&amp;quot;, monospace, &amp;quot;droid sans fallback&amp;quot;, &amp;quot;droid sans mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #7a88cf&quot;&gt;#&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="580" width="730" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div style=&quot;color: rgb(200 , 211 , 245) ; background-color: rgb(29 , 31 , 49) ; font-family: &amp;#34;source code pro&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; , &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="600" width="690" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div style=&quot;color: rgb(200 , 211 , 245) ; background-color: rgb(29 , 31 , 49) ; font-family: &amp;#34;source code pro&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; , &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="700" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="700" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="700" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="700" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div style=&quot;background-color: rgb(29, 31, 49); font-family: &amp;quot;source code pro&amp;quot;, &amp;quot;monospace&amp;quot;, monospace, &amp;quot;droid sans fallback&amp;quot;, &amp;quot;droid sans mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;FOOTER&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="820" width="730" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="395" y="30" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="130" width="420" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="250" width="210" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="250" width="210" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sodales&amp;nbsp;&lt;/span&gt;&lt;span&gt;mi vel sem porttitor, a faucibus orci tincidunt. Ut eget sagittis nibh,&amp;nbsp;&lt;/span&gt;&lt;span&gt;sed commodo justo. Quisque pretium efficitur velit, ut auctor sem cursus&amp;nbsp;&lt;/span&gt;&lt;span&gt;ac. Nam efficitur tellus sed consectetur efficitur. Sed pharetra, velit&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Curabitur blandit ullamcorper enim non vestibulum. Pellentesque nibh&amp;nbsp;&lt;/span&gt;&lt;span&gt;risus, auctor vel vehicula at, fermentum eget dolor. Donec tincidunt&amp;nbsp;&lt;/span&gt;&lt;span&gt;tempus urna, vitae hendrerit lorem bibendum nec. Proin suscipit dui&amp;nbsp;&lt;/span&gt;&lt;span&gt;felis, sit amet hendrerit dolor porttitor nec. Proin accumsan viverra ex&amp;nbsp;&lt;/span&gt;&lt;span&gt;vel pretium. Donec sit amet diam a metus consectetur tristique ac sit&amp;nbsp;&lt;/span&gt;&lt;span&gt;amet est. Donec quis quam orci. Praesent vulputate sollicitudin sapien.&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#FFFFFF;horizontal=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="294" width="310" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="320" width="210" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

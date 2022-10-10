@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,9 +8,135 @@
 
     <title>ryumada - profile page</title>
 </head>
-<body>
-    <h1 class="text-3xl font-bold underline">
-        Hello World!
-    </h1>
+
+<body class="font-sans">
+    <header class="flex flex-col mx-auto">
+        <div class="bg-fixed bg-gradient-to-br from-sky-800 to-amber-500 pt-20 pb-12 space-y-4">
+            <div class="max-w-lg mx-auto w-44 lg:w-64">
+                <img class="rounded-full" src="./images/profile-photo.jpg" alt="profile-photo">
+            </div>
+            <div class="mx-auto">
+                <div class="mx-auto h-fit w-fit text-white">
+                    <h1 class="text-2xl lg:text-3xl text-center">
+                        <pre>ryumada</pre>
+                    </h1>
+                    <p class="text-sm lg:text-base text-center">Software Engineer</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="px-4 md:px-8 lg:px-6">
+        <!-- main content -->
+        <article class="flex flex-wrap mx-auto h-fit w-full py-4 lg:py-8 xl:py-12">
+            <!-- a brief story -->
+            <div class="basis-full lg:basis-8/12 xl:basis-7/12 lg:px-8">
+                <h2 class="mb-4 font-bold text-xl lg:text-2xl">My Story</h2>
+                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum metus
+                    non metus ullamcorper suscipit. Duis
+                    mollis maximus leo in placerat. Vivamus metus dui, luctus vel orci nec, rhoncus pellentesque turpis.
+                    Quisque scelerisque
+                    turpis vel turpis dictum pharetra eu sed nisl. Nullam molestie lectus velit, sed placerat magna
+                    pharetra in. Morbi eros
+                    diam, faucibus eu cursus quis, lacinia vitae ipsum. Suspendisse varius metus sit amet velit
+                    facilisis, eu eleifend eros
+                    egestas. Sed vitae malesuada ante. Mauris venenatis, metus et bibendum placerat, ex augue interdum
+                    ligula, eget
+                    pellentesque nibh ante non lectus. Nullam porttitor, leo ut feugiat viverra, libero elit ornare
+                    ipsum, a tristique ex
+                    tortor non metus. Aliquam erat volutpat.<br /><br />
+
+                    Maecenas ornare varius lacinia. Donec est ante, sollicitudin quis interdum eu, malesuada ac tellus.
+                    Donec vitae leo
+                    turpis. Etiam mollis, lorem quis elementum sagittis, ex est vehicula urna, nec consectetur erat erat
+                    et turpis. Nullam
+                    id mi vel risus faucibus dictum. Pellentesque elementum turpis quam, ut tempus massa ullamcorper
+                    ultrices. Maecenas
+                    commodo tincidunt nisi non convallis. Suspendisse porttitor congue lorem eu luctus. Fusce non tortor
+                    ac libero
+                    condimentum ullamcorper. In tempus mollis tincidunt. Maecenas id venenatis nisi. Vestibulum
+                    scelerisque nunc ac accumsan
+                    pharetra.</p>
+            </div>
+            <!-- personal information -->
+            <div class="basis-full lg:basis-4/12 xl:basis-5/12 lg:px-8 mt-4 lg:mt-0">
+                <h2 class="mb-4 font-bold text-xl lg:text-2xl">Personal Information</h2>
+                <div class="flex border-b-2 mb-2 pb-2">
+                    <div class="basis-3/12 sm:basis-2/12 lg:basis-3/12 xl:basis-2/12">Age</div>
+                    <div class="basis-9/12 sm:basis-10/12 lg:basis-9/12 xl:basis-10/12">24</div>
+                </div>
+                <div class="flex border-b-2 mb-2 pb-2">
+                    <div class="basis-3/12 sm:basis-2/12 lg:basis-3/12 xl:basis-2/12">Phone</div>
+                    <div class="basis-9/12 sm:basis-10/12 lg:basis-9/12 xl:basis-10/12">+62-8134-5678-9012</div>
+                </div>
+                <div class="flex border-b-2 mb-2 pb-2">
+                    <div class="basis-3/12 sm:basis-2/12 lg:basis-3/12 xl:basis-2/12">Email</div>
+                    <div class="basis-9/12 sm:basis-10/12 lg:basis-9/12 xl:basis-10/12">contact@ryumada.codes</div>
+                </div>
+            </div>
+        </article>
+
+        <!-- contacts -->
+        <section class="lg:px-8">
+            <h2 class="mb-4 font-bold text-xl lg:text-2xl">Contact me via</h2>
+            <div class="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2 py-5">
+                <div>
+                    <a href="#"
+                        class="mx-auto flex w-fit justify-center rounded-md border border-transparent py-2 px-4 text-sm font-medium shadow-sm hover:bg-slate-200">
+                        <div class="flex flex-col mx-auto">
+                            <div class="mx-auto h-12 w-12 lg:h-14 lg:w-14 mb-2" style="background-image: url(./images/email-svgrepo-com.svg);">
+                            </div>
+                            <p class="text-center text-sm md:text-base">Email</p>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="#"
+                        class="mx-auto flex w-fit justify-center rounded-md border border-transparent py-2 px-4 text-sm font-medium shadow-sm hover:bg-slate-200">
+                        <div class="flex flex-col mx-auto">
+                            <div class="mx-auto h-12 w-12 lg:h-14 lg:w-14 mb-2" style="background-image: url(./images/github-svgrepo-com.svg);">
+                            </div>
+                            <p class="text-center text-sm md:text-base">Github</p>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="#"
+                        class="mx-auto flex w-fit justify-center rounded-md border border-transparent py-2 px-4 text-sm font-medium shadow-sm hover:bg-slate-200">
+                        <div class="flex flex-col mx-auto">
+                            <div class="mx-auto h-12 w-12 lg:h-14 lg:w-14 mb-2" style="background-image: url(./images/whatsapp-social-media-svgrepo-com.svg);">
+                            </div>
+                            <p class="text-center text-sm md:text-base">Whatsapp</p>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="#"
+                        class="mx-auto flex w-fit justify-center rounded-md border border-transparent py-2 px-4 text-sm font-medium shadow-sm hover:bg-slate-200">
+                        <div class="flex flex-col mx-auto">
+                            <div class="mx-auto h-12 w-12 lg:h-14 lg:w-14 mb-2" style="background-image: url(./images/twitter-svgrepo-com.svg);">
+                            </div>
+                            <p class="text-center text-sm md:text-base">Twitter</p>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="#"
+                        class="mx-auto flex w-fit justify-center rounded-md border border-transparent py-2 px-4 text-sm font-medium shadow-sm hover:bg-slate-200">
+                        <div class="flex flex-col mx-auto">
+                            <div class="mx-auto h-12 w-12 lg:h-14 lg:w-14 mb-2" style="background-image: url(./images/facebook-svgrepo-com.svg);">
+                            </div>
+                            <p class="text-center text-sm md:text-base">Facebook</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </section>
+
+    <footer class="h-fit py-4">
+        <p class="text-center text-xs">Copyright &#169; 2022 ryumada.</p>
+    </footer>
 </body>
+
 </html>

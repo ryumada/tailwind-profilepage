@@ -1,0 +1,21 @@
+# see this for more information about this file: https://cloud.google.com/sdk/gcloud/reference/topic/gcloudignore
+
+#!include:.gitignore
+
+# git files
+.git
+.gitignore
+
+# gloudignore itself
+.glcoudignore
+
+# development files and folders
+package.json
+package-lock.json
+src/*
+tailwind.config.js
+README.md
+
+# static files that has been uploaded to gcs
+www/css
+www/images

@@ -7,7 +7,7 @@
 .gitignore
 
 # gloudignore itself
-.glcoudignore
+.gcloudignore
 
 # development files and folders
 package.json
